@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "platzi-store",
   "version": "1.0.0",
   "description": "Proyecto para el curso de Jest",
@@ -60,4 +61,16 @@
     "url": "https://github.com/gndx/platzi-store/issues"
   },
   "homepage": "https://github.com/gndx/platzi-store/#readme"
+=======
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> e0a7e83... v2
 }
